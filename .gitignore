@@ -11,3 +11,4 @@ Thumbs.db
 
 # Ignorar archivos temporales o de configuración local
 .vscode/
+.vercel
